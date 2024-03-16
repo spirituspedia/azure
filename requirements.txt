@@ -1,2 +1,6 @@
 Flask
 Requests
+Altair
+Pandas
+Numpy
+Streamlit
